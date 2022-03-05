@@ -1,5 +1,3 @@
-Swiss Verein
-
 ## Article 1 - Name and Registered Office
 
 Under the name of xxxxx an association (Verein) according to art. 60. et seq of the Swiss Civil Code (Schweizerisches Zivilgesetzbuch) the following provisions of the articles of association are established. 
