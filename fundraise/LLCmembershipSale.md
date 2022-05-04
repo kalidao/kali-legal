@@ -46,7 +46,7 @@ Buyer hereby represents and warrants to Seller that:
 
  5. Binding Effect. This Agreement shall be binding upon the legal representatives and successors of Seller and Buyer.
 
- 6. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without giving effect to any choice of law or conflict of law rules or provisions (whether of the State of Delaware or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of Delaware.
+ 6. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of [[Choice of Law]], without giving effect to any choice of law or conflict of law rules or provisions (whether of the State of [[Choice of Law]] or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of [[Choice of Law]].
  
  7. Arbitration. Any controversy or claim arising out of or relating to this Agreement, or the breach thereof, shall be settled exclusively in online arbitration by arbitrator(s) selected by the parties, or in the absence of such selection, by the parties, in accordance with the Commercial Arbitration Rules of the American Arbitration Association then in effect, and judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof. All costs of the arbitration and the fees of the arbitrators shall be allocated between the parties as determined therein, it being the intention of the parties that the prevailing party in such a proceeding be made whole with respect to its expenses.
 
