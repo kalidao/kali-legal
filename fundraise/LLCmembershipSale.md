@@ -1,6 +1,6 @@
-# LLC MEMBERSHIP INTEREST SALE AGREEMENT
+# LLC MEMBERSHIP JOINDER AGREEMENT
 
-THIS LLC MEMBERSHIP INTEREST SALE AGREEMENT (this “Agreement”) is entered into by and among [[DAO Name]] (“Company”) and the accounts conducting transactions through its approved smart contract extension at the public key address [[Sale Contract Address]] (“Buyer”, and such smart contract, “Sale Contract”).
+THIS LLC MEMBERSHIP JOINDER AGREEMENT (this “Agreement”) is entered into by and among [[DAO Name]] at the public key address [[DAO Contract Address]] (“Company”) and the accounts conducting transactions through its approved smart contract extensions (“Buyer”, and such smart contracts, “Joinder Contracts”).
 
 ## RECITALS
 
@@ -12,9 +12,9 @@ NOW, THEREFORE, THE PARTIES AGREE AS FOLLOWS:
 
 1. Purchase and Sale of Membership Interest.
 
-               (a) Buyer shall purchase from Seller, and Seller shall sell to Buyer, Membership Interests in exchange for cryptographic value according to terms of the sale program recorded at time of purchase in the Sale Contract. Such sale shall conclude and be effective upon the recording of the transfer in the Sale Contract.
+               (a) Buyer shall purchase from Seller, and Seller shall sell to Buyer, Membership Interests in exchange for a capital contribution in cryptographic value according to terms of the sale program recorded at time of purchase in the Joinder Contracts. Such sale shall conclude and be effective upon the recording of the transfer in the Joinder Contracts.
 
-               (b) Seller agrees and acknowledges that no certificate or certificates are necessary to evidence the Membership Interests that are being sold by Seller to Buyer hereunder; such transfer shall be deemed effective automatically, without further notice or instruction from Seller, and shall be further deemed an acceptance and joinder to the membership agreement of Seller (such agreement, the "Operating Agreement").
+               (b) Seller agrees and acknowledges that no certificate or certificates are necessary to evidence the Membership Interests that are being sold by Seller to Buyer hereunder; such transfer shall be deemed effective automatically, without further notice or instruction from Seller, and shall be further deemed an acceptance and joinder to the membership agreement of Seller (such agreement, the "Operating Agreement") effective at the time of purchase.
 
 2. Representation and Warranties of Seller. 
 
@@ -42,7 +42,7 @@ Buyer hereby represents and warrants to Seller that:
                
                (d) Buyer has been provided a copy of the Operating Agreement and an opportunity to review, with such copy being deemed provided by notice of the public key address of the Company and a form of this Agreement that can be reasonably appended thereto.
 
- 4. Revised Membership Interests and Capital Accounts. The Membership Interests in the Company, adjusted to reflect the transfers hereunder shall be as set and recorded by the Sale Contract and the organizational code of the Seller (the "DAO") on the public key addresses associated with the Sale Contract and the DAO.
+ 4. Revised Membership Interests and Capital Accounts. The Membership Interests in the Company, adjusted to reflect the transfers hereunder shall be as set and recorded by the Joinder Contracts and the organizational code of the Seller (the "DAO") on the public key addresses associated with the Joinder Contracts and the DAO.
 
  5. Binding Effect. This Agreement shall be binding upon the legal representatives and successors of Seller and Buyer.
 
