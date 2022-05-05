@@ -12,7 +12,7 @@ NOW, THEREFORE, THE PARTIES AGREE AS FOLLOWS:
 
 1. Purchase and Sale of Membership Interest.
 
-               (a) Buyer shall purchase from Seller, and Seller shall sell to Buyer, Membership Interests in exchange for a capital contribution in cryptographic value according to terms of the sale program recorded at time of purchase in the Joinder Contracts. Such sale shall conclude and be effective upon the recording of the transfer in the Joinder Contracts.
+               (a) Buyer shall purchase from Seller, and Seller shall sell to Buyer, Membership Interests in exchange for capital contributions in cryptographic value according to the terms of the sale program recorded at the time of purchase in the Joinder Contracts. Such sale shall conclude and be effective upon the recording of the transfer in the Joinder Contracts.
 
                (b) Seller agrees and acknowledges that no certificate or certificates are necessary to evidence the Membership Interests that are being sold by Seller to Buyer hereunder; such transfer shall be deemed effective automatically, without further notice or instruction from Seller, and shall be further deemed an acceptance and joinder to the membership agreement of Seller (such agreement, the "Operating Agreement") effective at the time of purchase.
 
