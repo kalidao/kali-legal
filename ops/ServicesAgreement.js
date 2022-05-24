@@ -248,7 +248,7 @@ const DelawareOAtemplate = ({ customerName, customerEmail, customerEthAddress, s
           <Br />
           19.
           <Tab />
-          If the dispute is not resolved within a reasonable period then any or all outstanding issues may be submitted to mediation in accordance with any statutory rules of mediation. If mediation is unavailable or is not successful in resolving the entire dispute, any outstanding issues will be submitted to final and binding arbitration in accordance with the laws of the State of New South Wales. The arbitrator's award will be final, and judgment may be entered upon it by any court having jurisdiction within the State of New South Wales.
+          If the dispute is not resolved within a reasonable period then any or all outstanding issues may be submitted to mediation in accordance with any statutory rules of mediation. If mediation is unavailable or is not successful in resolving the entire dispute, any outstanding issues will be submitted to final and binding arbitration in accordance with the laws of the State of Delaware. The arbitrator's award will be final, and judgment may be entered upon it by any court having jurisdiction within the State of Delaware.
           <Br />
         </Text>
 
@@ -311,7 +311,7 @@ const DelawareOAtemplate = ({ customerName, customerEmail, customerEthAddress, s
         <Text style={styles.numbered_list}>
           26.
           <Tab />
-          It is the intention of the Parties to this Agreement that this Agreement and the performance under this Agreement, and all suits and special proceedings under this Agreement, be construed in accordance with and governed, to the exclusion of the law of any other forum, by the laws of the State of New South Wales, without regard to the jurisdiction in which any action or special proceeding may be instituted.
+          It is the intention of the Parties to this Agreement that this Agreement and the performance under this Agreement, and all suits and special proceedings under this Agreement, be construed in accordance with and governed, to the exclusion of the law of any other forum, by the laws of the State of Delaware, without regard to the jurisdiction in which any action or special proceeding may be instituted.
           <Br />
         </Text>
 
