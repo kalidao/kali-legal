@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
 const Br = () => "\n"
 const Tab = () => "  "
 
-const DelawareOAtemplate = ({ customerName, customerEmail, customerEthAddress, date, serviceProviderName, serviceProviderEmail, serviceProviderEthAddress }) => {
+const DelawareOAtemplate = ({ customerName, customerEmail, customerEthAddress, serviceProviderName, serviceProviderEmail, serviceProviderEthAddress, date, serviceToken }) => {
   return (
     <Document>
       <Page style={styles.body}>
@@ -145,7 +145,7 @@ const DelawareOAtemplate = ({ customerName, customerEmail, customerEthAddress, d
         <Text style={styles.numbered_list}>
           7.
           <Tab />
-          Except as otherwise provided in this Agreement, all monetary amounts referred to in this Agreement are in Dai Stablecoin.
+          Except as otherwise provided in this Agreement, all monetary amounts referred to in this Agreement are in {serviceToken}.
           <Br />
         </Text>
 
