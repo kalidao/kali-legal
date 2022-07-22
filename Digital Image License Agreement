@@ -1,97 +1,69 @@
-DIGITAL IMAGE  LICENCE AGREEMENT
+DIGITAL CONTENT LICENSE AGREEMENT
 
-Read these terms and conditions carefully before using or purchasing the Digital Image from the Seller. By using or purchasing the Digital Image from the Seller, you agree to be bound by the terms and conditions of this Agreement. If you do not accept the terms and conditions in this Agreement, do not use or purchase the Digital Image from the Seller.
+Read these terms and conditions carefully before using or purchasing the Digital Content from the Licensor. By using or purchasing the Digital Content from the Licensor, you agree to be bound by the terms and conditions of this Agreement. If you do not accept the terms and conditions in this Agreement, do not use or purchase the Digital Content from the Licensor.
 
-THIS DIGITAL IMAGE LICENCE (the 'Agreement') dated this _____ day of _____________, 2022 (the “Effective Date”) by and between:
-1.	____________________ of ________________________________________________________________________________ (the 'Seller') OF THE FIRST PART; and
-2.	____________________ of ________________________________________________________________________________ (the 'Buyer') OF THE SECOND PART
+THIS DIGITAL CONTENT LICENSE (the 'Agreement') dated this {date} (the “Effective Date”) by and between:
+1.	{daoName, daoAddress} (the 'Licensor'); and
+2.	{msg.sender} (the 'Licensee')
 (individually the 'Party' and collectively the 'Parties')
 
-IN CONSIDERATION OF the Seller providing the Digital Image to the Buyer and the Buyer paying the Seller the Purchase Price, and other valuable consideration, the receipt and sufficiency of which consideration is hereby acknowledged, the Parties agree as follows:
+IN CONSIDERATION OF the Licensor providing the Digital Content to the Licensee and the Licensee paying the Licensor the Purchase Price, and other valuable consideration, the receipt and sufficiency of which consideration is hereby acknowledged, the Parties agree as follows:
 
-Digital Image
-1.	The Seller owns and is providing to the Buyer the digital image or digital images described below (the 'Digital Image'):
-_____________________________________________________________
-_____________________________________________________________
-_____________________________________________________________. 
+Digital Content
+1.	The Licensor owns and is providing to the Licensee the digital content described below (the 'Digital Content): {token contract and id}
 
-Licence
-2.	The Digital Image is the property of the Seller and is copyrighted by law. The Digital Image shall not be copied, published, or used in any way except as provided for in this Agreement. The Seller reserves the right to use the Digital Image on the Seller’s website and for the Seller’s own marketing or advertising purposes.
-3.	The Seller will provide the Digital Image to the Buyer from _____________________ (the 'Contract Start Date') to _____________________ (such period, the 'Licence Term').
+License
+2.	The Digital Content is the property of the Licensor and is copyrighted by law. The Digital Content shall not be copied, published, or used in any way except as provided for in this Agreement. The Licensor reserves the right to use the Digital Content on the Licensor’s website and for the Licensor’s own marketing or advertising purposes.
+3.	The Licensor will provide the Digital Content to the Licensee from  {contract timestamp} to {Trade.expiry} (such period, the 'License Term'). Licensor reserves the right to modify the duration of the License Term.
 
 Permitted Use
-4.	The Buyer shall only use the Digital Image in accordance with this Agreement.
-5.	The Buyer shall use the Digital Image for personal, non-commercial use only, and subject to the restrictions on use set out in this Agreement (the 'Permitted Use') for the duration of the Licence Term.
-6.	Personal, non-commercial use means the Buyer may display the Digital Image on their personal computers and may print the Digital Image for personal use. The Buyer may also display the Digital Image on their personal websites, so long as the Digital Image is unaltered and includes a direct link to the Seller’s website or credit to the Seller.
-7.	The Buyer may share the Digital Image to its personal social media platforms so long as the Digital Image is unaltered and includes a direct link to the Seller’s website or credit to the Seller.
+4.	The Licensee shall only use the Digital Content in accordance with this Agreement.
+5.	The Licensee shall use the Digital Content for personal, non-commercial use only, and subject to the restrictions on use set out in this Agreement (the 'Permitted Use') for the duration of the License Term.
+6.	Personal, non-commercial use means the Licensee may display the Digital Content on their personal computers and may print the Digital Content for personal use. The Licensee may also display the Digital Content on their personal websites, social media, and any other Internet presence. .
 
 Restrictions on Use
-8.	The Buyer shall not resell, sub-licence or redistribute the Digital Image except as provided for in this Agreement.
-9.	The Buyer shall not use the Digital Image in a commercial manner to earn money, for marketing or advertising purposes, or in a trade mark, except as provided for in this Agreement.
-10.	The Buyer shall not use the Digital Image in an obscene, defamatory or immoral way.
-11.	The Buyer shall not use, and shall not allow to be used, the Digital Image for any purposes prohibited by the laws of England and Wales.
-12.	The Buyer shall not alter the Digital Image in any way.
-13.	The Buyer shall not allow others to use the Digital Image and shall not use the Digital Image in a way that allows others to download or redistribute the Digital Image except in accordance with this Agreement.
+8.	The Licensee shall not resell, sub-licence or redistribute the Digital Content except as provided for in this Agreement.
+9.	The Licensee shall not use the Digital Content in a commercial manner to earn money, for marketing or advertising purposes, or in a trade mark, except as provided for in this Agreement.
+10.	The Licensee shall not use the Digital Content in an obscene, defamatory or immoral way.
+11.	The Licensee shall not use, and shall not allow to be used, the Digital Content for any purposes prohibited by the laws of {jurisdiction}.
+12.	The Licensee shall not alter the Digital Content in any way.
+13.	The Licensee shall not allow others to use the Digital Content and shall not use the Digital Content in a way that allows others to download or redistribute the Digital Content except in accordance with this Agreement.
 
 Price
-14.	The Buyer will pay ____________________ (the 'Purchase Price'), for the Permitted Use of the Digital Image, paid by cash on or before the Contract Start Date.
-15.	Warranties
-16.	The Seller warrants that the Seller is entitled to grant the use of the Digital Image described in this Agreement, and that this Agreement does not infringe the rights of third parties.
-17.	As provided in the Consumer Rights Act 2015, the Seller warrants that the quality of the Digital Image is satisfactory; the Digital Image is reasonably fit for its Permitted Use; and the Digital Image shall match any description provided by the Seller to the Buyer. A breach of this clause will result in the Buyer being entitled to the immediate replacement of the Digital Image, a full or partial refund of the Purchase Price, or a price reduction, as appropriate. It shall be the option of the Seller whether to replace the Digital Image, to refund an amount paid, or to reduce the Purchase Price.
+14.	The Licensee will pay {Trade.payment in units of Trade.currency} (the 'Purchase Price'), for the Permitted Use of the Digital Content.
+Warranties
+16.	The Licensor warrants that the Licensor is entitled to grant the use of the Digital Content described in this Agreement, and that this Agreement does not infringe the rights of third parties.
+17.	
 
 Liability & Indemnity
-18.	The Seller will not be liable for any third party claims, losses, damages, liabilities, penalties, punitive damages, expenses, legal fees or costs of any kind or amount whatsoever resulting from the Buyer’s use of the Digital Image.
-19.	The Buyer agrees to defend, indemnify and hold harmless the Seller and its officers, employees, agents and suppliers against any and all claims, losses, damages, liabilities, penalties, punitive damages, expenses, reasonable legal fees and costs of any kind or amount whatsoever resulting from or arising out of the unauthorised use of the Digital Image by the Buyer, or its officers, employees, agents or suppliers, or the Buyer's breach of this Agreement.
+18.	The Licensor will not be liable for any third party claims, losses, damages, liabilities, penalties, punitive damages, expenses, legal fees or costs of any kind or amount whatsoever resulting from the Licensee’s use of the Digital Content.
+19.	The Licensee agrees to defend, indemnify and hold harmless the Licensor and its officers, employees, agents and suppliers against any and all claims, losses, damages, liabilities, penalties, punitive damages, expenses, reasonable legal fees and costs of any kind or amount whatsoever resulting from or arising out of the unauthorized use of the Digital Content by the Licensee, or its officers, employees, agents or suppliers, or the Licensee's breach of this Agreement.
 
 Expiry or Termination
-20.	This Agreement will expire on _____________________ unless the Parties decide to renew, or unless otherwise terminated for any of the reasons set out below.
-21.	This Agreement shall terminate immediately upon the failure of the Buyer to comply with the terms and conditions herein.
-22.	The Seller reserves the right to cancel this Agreement immediately:
-22.1.	if the Buyer fails to make a payment when due; or
-22.2.	in the event of the Buyer's insolvency or bankruptcy.
-23.	The Seller reserves the right to discontinue the licence and terminate the Agreement immediately, as well as to commence legal proceedings, if any copyright infringement has taken place due to the Buyer’s unauthorised use of the Digital Image.
-24.	Upon expiry or termination of this Agreement, the Buyer shall discontinue the use of the Digital Image, and shall destroy all copies and archives of the Digital Image.
+20.	This Agreement will expire on {Trade.expiry} , or unless otherwise terminated for any of the reasons set out below.
+21.	This Agreement shall terminate immediately upon the failure of the Licensee to comply with the terms and conditions herein.
+
+
+24.	Upon expiry or termination of this Agreement, the Licensee shall discontinue the use of the Digital Content.
 
 Intellectual Property Rights
-25.	The Seller retains all intellectual property rights in the Digital Image, including the sole copyright to the Digital Image. Nothing in this Agreement shall operate to transfer, assign or otherwise grant any party any right or interest in the Seller's intellectual property rights or affect ownership by the Seller of intellectual property rights with regard to the Digital Image.
-26.	Any use, under any conditions not specifically allowed for in this Agreement, may constitute a violation of the copyright laws of England and Wales or international copyright agreements.
-27.	The Buyer shall not falsely represent that they are the original creator of the Digital Image.
+25.	The Licensor retains all intellectual property rights in the Digital Content, including the sole copyright to the Digital Content. Nothing in this Agreement shall operate to transfer, assign or otherwise grant any party any right or interest in the Licensor's intellectual property rights or affect ownership by the Licensor of intellectual property rights with regard to the Digital Content.
+26.	Any use, under any conditions not specifically allowed for in this Agreement, may constitute a violation of the copyright laws of {jurisdiction}or international copyright agreements.
+27.	The Licensee shall not falsely represent that they are the original creator of the Digital Content.
 
 Export Laws
-28.	In order to purchase a licence for the Digital Image, the Buyer must be in compliance with applicable export laws.
-29.	The Buyer shall not ship, transfer or export the Digital Image to any country in a manner prohibited by the laws of England and Wales or use it in any manner prohibited by the laws of England and Wales.
+28.	In order to purchase a license for the Digital Content, the Licensee must be in compliance with applicable export laws.
+29.	The Licensee shall not ship, transfer or export the Digital Content to any country in a manner prohibited by the laws of {jurisdiction} or use it in any manner prohibited by the laws of {jurisdiction}.
 
 Severability
-30.	If there is a conflict between any provision of this Agreement and the applicable legislation of England and Wales (the 'Act'), the Act will prevail and such provision of the Agreement will be amended or deleted as necessary in order to comply with the Act. Further, any provisions that are required by the Act are incorporated into this Agreement.
 31.	If any terms or provisions of this Agreement are determined to be invalid or unenforceable by a court of competent jurisdiction, the remainder of this Agreement will not be affected and each unaffected term and provision will remain in full force and effect.
 
 Governing Law
-32.	This Agreement will be governed by and construed in accordance with the laws of __________________, without regard to the jurisdiction in which any action may be instituted. The Buyer agrees to submit to the jurisdiction of the courts of __________________ to bring any action or for the enforcement of this Agreement. Notwithstanding, the Seller reserves the right to commence legal action to obtain injunctive relief in any court of competent jurisdiction.
+32.	This Agreement will be governed by and construed in accordance with the laws of {jurisdiction}, without regard to the jurisdiction in which any action may be instituted. The Licensee agrees to submit to the {jurisdiction} to bring any action or for the enforcement of this Agreement. Notwithstanding, the Licensor reserves the right to commence legal action to obtain injunctive relief in any court of competent jurisdiction.
 
 Assignment
-33.	The Buyer may not assign or transfer the Agreement or any rights granted within without the prior written consent of the Seller, and any attempted assignment or delegation without such consent will be void.
-34.	The Agreement will inure to the benefit and be binding upon the Seller and the Buyer and their respective successors and assigns.
+33.	The Licensee may not assign or transfer the Agreement or any rights granted without the prior written consent of the Licensor, and any attempted assignment or delegation without such consent will be void.
+34.	The Agreement will inure to the benefit and be binding upon the Licensor and the Licensee and their respective successors and assigns.
 
 Agreement of Parties
-35.	This Agreement constitutes the entire agreement between the Seller and the Buyer with respect to the subject matter hereof and there are no further items or provisions, either oral or otherwise.
-36.	The provisions contained in this Agreement cannot be changed except by the signed and delivered written consent of both Parties.
-
-General Provisions
-37.	Headings are inserted for convenience only and are not to be considered when interpreting this Agreement. Words in the singular mean and include the plural and vice versa. Words in the masculine mean and include the feminine and vice versa.
-38.	This Agreement may be executed in counterparts. Facsimile signatures are binding and are considered to be original signatures.
-39.	All monetary amounts in this Agreement refer to the pound sterling (GBP), and all payments required to be paid under this Agreement will be paid in GBP unless the Parties agree otherwise in writing.
-40.	Time is of the essence in this Agreement.
-
-The Parties have executed this Digital Image Licence on the Effective Date first above written.
-
-
-As authorised signatory for and on behalf of: 
-
-the Seller:							the Buyer:
-
-
-<Signature>							<Signature>
-
-<Name>							      <Name>
-<Designation>							<Designation>
-<Company Name>						<Designation>
+35.	This Agreement constitutes the entire agreement between the Licensor and the Licensee with respect to the subject matter hereof and there are no further items or provisions, either oral or otherwise.
